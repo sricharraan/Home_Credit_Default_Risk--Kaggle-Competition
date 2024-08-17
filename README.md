@@ -3,11 +3,11 @@
 ## Group members
 Varsha Ravi Varma - varavi@iu.edu
 
-Athulya Anand - athanand@iu.edu
+Athulya Anand - mridula1999@gmail.com
 
 Shubham Patil - shupatil@iu.edu
 
-Sricharraan Ramaswamy - sriramas@iu.edu
+Sricharraan Ramaswamy - sricharraan2399@gmail.com
 
 ## Abstract
 Based in 1997, Home Credit International is a global consumer finance company with operations in ten countries. Due to poor or no credit histories, it is difficult for many people to get loans, and unfortunately, these individuals are often exploited by unreliable lenders. Financial inclusion is at the core of the mission of companies such as Home Credit, which provides borrowers with a positive and secure borrowing experience. Although Home Credit currently uses various statistical and machine learning methods to predict their clients' repayment abilities, they are hoping a new model can be developed that will ensure borrowers who can repay are not rejected, allowing them to succeed. The challenge is to construct a model that can predict the level of risk associated with an individual loan. With this project, we intend to use historical loan application data to predict whether or not a borrower will be able to repay a loan.
